@@ -1,0 +1,33 @@
+.homeHeader{
+    display: flex;
+    justify-content: center;
+}
+
+.websiteLogo{
+    max-width: 200px;
+}
+
+.homeLogo {
+    display: flex;
+    justify-content: center;
+}
+
+.homeWelcome {
+    font-size: 100px;
+}
+
+.homeText {
+    text-align: center;
+    background-color: cadetblue;
+}
+
+.homeFooter {
+    padding-top: 250px;
+    display: flex;
+    justify-content: center;
+}
+
+.continueArrow {
+    display: flex;
+    justify-content: center;
+}

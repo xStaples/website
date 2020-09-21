@@ -1,0 +1,19 @@
+.navBar {
+  display: flex;
+  list-style: none;
+  align-items: right;
+}
+
+.aboutNavBtn {
+  padding: 15px;
+  margin-right: 15px;
+  border-radius: 5px;
+  background-color: whitesmoke;
+}
+
+.contactNavBtn {
+  padding: 15px;
+  margin-right: 15px;
+  border-radius: 5px;
+  background-color: whitesmoke;
+}

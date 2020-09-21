@@ -1,0 +1,55 @@
+TODO
+
+
+OUTSIDE DESIGN
+
+Create HomePage button image
+    - <CodingProjects />
+        Sharp cutout with borderstroke and galaxy overlay
+    - ArtWork
+        Drawn cutout with borderstroke and galaxy overlay
+
+
+HTML
+
+ProjectsPage
+    - Project 1:
+    - Project 2:
+    - Project 3:
+ArtworkPage
+    - ArtWork 1
+    - ArtWork 2
+    - ArtWork 3
+AboutPage
+    -Skills
+    -Accomplishments
+    -Hobbies
+ContactPage
+    -Contact form
+        -Name, F/L
+        -email
+        -regards
+        -comment box
+
+CSS
+
+NavBar
+    -menu icon
+    -color
+HomePage
+    -Button Effects
+ProjectsPage
+    -container design
+ArtworkPage
+    -container design
+AboutPage
+    -container design
+ContactPage
+    -form color
+
+
+DONE
+
+NavBar Functionality
+
+
